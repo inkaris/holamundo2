@@ -4,6 +4,6 @@ public class holamundo {
 	public static void main(String[] args) {
 		System.out.println("hola DAM!!!!");
 		System.out.println("");
-		System.out.println("Subido");
+		System.out.println("Espacio en blanco");
 	}
 }
