@@ -6,7 +6,4 @@ public class holamundo {
 		System.out.println("");
 		System.out.println("E");
 	}
-	public static void eresUnaZorra(){
-		System.out.println("Si");
-	}
 }
