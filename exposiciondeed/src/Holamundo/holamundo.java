@@ -8,7 +8,7 @@ import ejercicio3.Persona;
 public class DarFormacion {
     public static void main(String[] args) {
         Persona v[] = {
-            new Desempleado(),
+            
             new EstudianteCCFF(),
             new EstudianteCCFF(),
             new EstudianteCCFF(),
